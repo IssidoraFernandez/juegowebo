@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: 55ba0789c94697e47a124612512b809a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: charlieTheCapybara_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 62
+      height: 36
+    spriteID: 7c7c1d15d8e47d94986cfaf41bb8af02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: charlieTheCapybara_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 4
+      width: 62
+      height: 36
+    spriteID: 720510265000a6d4b988b350e9b7ddaf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 4}
+  - name: charlieTheCapybara_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 4
+      width: 62
+      height: 36
+    spriteID: 71f8cfa5d50b2bc44b066dac4276576b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 4}
+  - name: charlieTheCapybara_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 48
+      width: 62
+      height: 35
+    spriteID: dbdb5d489fe614949b86b3bb65550864
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 352, y: 48}
+  - name: charlieTheCapybara_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 422
+      y: 48
+      width: 62
+      height: 35
+    spriteID: d8bc7f43efcc9b04fa55cff51aa5adc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 422, y: 48}
+  - name: charlieTheCapybara_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 4
+      width: 62
+      height: 36
+    spriteID: 23fb06016c481bf45affbbf36c5b6a37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 4}
+  - name: charlieTheCapybara_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 284
+      y: 4
+      width: 62
+      height: 36
+    spriteID: f7d5b43a3edeb214aad361cbd4f1c9a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 284, y: 4}
+  - name: charlieTheCapybara_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 4
+      width: 62
+      height: 36
+    spriteID: 8a4b85b23fab97b438133d7fe638540d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 4}
+  - name: charlieTheCapybara_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 4
+      width: 62
+      height: 36
+    spriteID: e9a8bef4ced45694eb999b4dab540bad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 4}
+  - name: charlieTheCapybara_Frame_9
+    originalName: 
+    pivot: {x: 0.5272727, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 227
+      width: 55
+      height: 35
+    spriteID: c1731f16921e07a4e8c2338709dc4db6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 227}
+  - name: charlieTheCapybara_Frame_10
+    originalName: 
+    pivot: {x: 0.509434, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 322
+      y: 227
+      width: 53
+      height: 35
+    spriteID: 3f622f728181d804fa9c988d914e8d41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 322, y: 227}
+  - name: charlieTheCapybara_Frame_11
+    originalName: 
+    pivot: {x: 0.509434, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 227
+      width: 53
+      height: 35
+    spriteID: 56e3d042368b16b4d92ce94378cecc01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 227}
+  - name: charlieTheCapybara_Frame_12
+    originalName: 
+    pivot: {x: 0.509434, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 227
+      width: 53
+      height: 35
+    spriteID: 7a59ccc0c8b66384eaa7260bf384a52b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 227}
+  - name: charlieTheCapybara_Frame_13
+    originalName: 
+    pivot: {x: 0.509434, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 185
+      width: 53
+      height: 34
+    spriteID: 23c4a3994508dfa47a5c3f534e31514b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 185}
+  - name: charlieTheCapybara_Frame_14
+    originalName: 
+    pivot: {x: 0.509434, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 185
+      width: 53
+      height: 33
+    spriteID: 71681306171a4f54fb5c873d2f41a694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 336, y: 185}
+  - name: charlieTheCapybara_Frame_15
+    originalName: 
+    pivot: {x: 0.509434, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 185
+      width: 53
+      height: 33
+    spriteID: 42b2a89a36fe60f4f95874d50ebe1a85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: 185}
+  - name: charlieTheCapybara_Frame_16
+    originalName: 
+    pivot: {x: 0.509434, y: -0.24242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 126
+      y: 272
+      width: 53
+      height: 33
+    spriteID: 1a93b37b14689e54a8f4276eaef936ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 126, y: 272}
+  - name: charlieTheCapybara_Frame_17
+    originalName: 
+    pivot: {x: 0.509434, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 275
+      y: 185
+      width: 53
+      height: 34
+    spriteID: 1b0f84a2f46e5b94ab4c71da2905dfb0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 275, y: 185}
+  - name: charlieTheCapybara_Frame_18
+    originalName: 
+    pivot: {x: 0.509434, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 272
+      width: 53
+      height: 35
+    spriteID: 6ef99b8cb22f43a439d3e9d4b0ad330f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 272}
+  - name: charlieTheCapybara_Frame_19
+    originalName: 
+    pivot: {x: 0.509434, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 272
+      width: 53
+      height: 35
+    spriteID: de8472ea9ee96294a882467a6797fa31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 272}
+  - name: charlieTheCapybara_Frame_20
+    originalName: 
+    pivot: {x: 0.5272727, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 227
+      width: 55
+      height: 35
+    spriteID: 846a17d44674c0443ab0e1d790d9d4ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 227}
+  - name: charlieTheCapybara_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 48
+      width: 62
+      height: 36
+    spriteID: bebf5d92d7c1da345a347ea56aa7d68f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 48}
+  - name: charlieTheCapybara_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 48
+      width: 62
+      height: 36
+    spriteID: 75fe99d7dbf28b34ba6a014a6747c2ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 48}
+  - name: charlieTheCapybara_Frame_23
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 48
+      width: 61
+      height: 36
+    spriteID: 48efe46d822d2524d9c5f9d11d620198
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 48}
+  - name: charlieTheCapybara_Frame_24
+    originalName: 
+    pivot: {x: 0.5254237, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 139
+      width: 59
+      height: 36
+    spriteID: 7186884ea7328be48a6183f0e7dff8fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 324, y: 139}
+  - name: charlieTheCapybara_Frame_25
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 227
+      width: 56
+      height: 37
+    spriteID: 3a4448ae4afef2f47bbee09f9df301af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 227}
+  - name: charlieTheCapybara_Frame_26
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 227
+      width: 56
+      height: 37
+    spriteID: 1dad0e02a7081c142b7f44bed378a345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 227}
+  - name: charlieTheCapybara_Frame_27
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 139
+      width: 56
+      height: 38
+    spriteID: 753b86e8014618240b0e7da88138946b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 139}
+  - name: charlieTheCapybara_Frame_28
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.12820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 92
+      width: 56
+      height: 39
+    spriteID: e05b19fb6d9a2954894436b03966d86e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 92}
+  - name: charlieTheCapybara_Frame_29
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 139
+      width: 56
+      height: 38
+    spriteID: d2eaacf24406e454a973d23a6d15e0d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 139}
+  - name: charlieTheCapybara_Frame_30
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 139
+      width: 56
+      height: 38
+    spriteID: f29f9a7670ad6e74ab75c820d882d20f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 139}
+  - name: charlieTheCapybara_Frame_31
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.12820514}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 68
+      y: 92
+      width: 56
+      height: 39
+    spriteID: a0ea16f964c2d0d4bb6f2fe250ca1d35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 68, y: 92}
+  - name: charlieTheCapybara_Frame_32
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 196
+      y: 139
+      width: 56
+      height: 38
+    spriteID: 57f30d3b8e3901f4093f9f732841ec77
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 196, y: 139}
+  - name: charlieTheCapybara_Frame_33
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 139
+      width: 56
+      height: 38
+    spriteID: cd3c71d736a4c8c45bd95125a6266250
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 139}
+  - name: charlieTheCapybara_Frame_34
+    originalName: 
+    pivot: {x: 0.55357146, y: -0.1891892}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 227
+      width: 56
+      height: 37
+    spriteID: 5b4d44cd4f5c2584db9a4f2aa4124cd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 227}
+  - name: charlieTheCapybara_Frame_35
+    originalName: 
+    pivot: {x: 0.5254237, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 139
+      width: 59
+      height: 36
+    spriteID: 5039f8474d070aa4bb055c5c6f610787
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 139}
+  - name: charlieTheCapybara_Frame_36
+    originalName: 
+    pivot: {x: 0.5081967, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 283
+      y: 48
+      width: 61
+      height: 36
+    spriteID: 9a8f356b0b6de2e49b3857ebf9bca8a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 283, y: 48}
+  - name: charlieTheCapybara_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.22222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 62
+      height: 36
+    spriteID: 86341f0b86da87049bdbfdc61fccc395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 48}
+  - name: charlieTheCapybara_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 92
+      width: 62
+      height: 35
+    spriteID: 72e827fa37344524c8e587fa18bfa891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 92}
+  - name: charlieTheCapybara_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 92
+      width: 62
+      height: 35
+    spriteID: 62b9b0c082ec62a44b88072d0e9fb226
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 92}
+  - name: charlieTheCapybara_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 185
+      width: 62
+      height: 34
+    spriteID: 22beb9deae3951b4193ece6feaf79203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 185}
+  - name: charlieTheCapybara_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 74
+      y: 185
+      width: 62
+      height: 34
+    spriteID: 5984468884ea8ea4fb15c64a915abeb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 74, y: 185}
+  - name: charlieTheCapybara_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 185
+      width: 62
+      height: 34
+    spriteID: 96c19e5a29bfed94aad8d82102f989e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 144, y: 185}
+  - name: charlieTheCapybara_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 92
+      width: 62
+      height: 35
+    spriteID: f291c14f88e11b24fae2a8156ddad45a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 92}
+  - name: charlieTheCapybara_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 342
+      y: 92
+      width: 62
+      height: 35
+    spriteID: 9bd799e3736769d4aa74b3ed074cab70
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 342, y: 92}
+  - name: charlieTheCapybara_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: -0.22857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 92
+      width: 62
+      height: 35
+    spriteID: fd134a2afd53d3a40b4a1c803e3e029f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 92}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1469695200
+    name: charlieTheCapybara
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: charlieTheCapybara_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 7c7c1d15d8e47d94986cfaf41bb8af02
+    - name: charlieTheCapybara_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 720510265000a6d4b988b350e9b7ddaf
+    - name: charlieTheCapybara_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 71f8cfa5d50b2bc44b066dac4276576b
+    - name: charlieTheCapybara_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: dbdb5d489fe614949b86b3bb65550864
+    - name: charlieTheCapybara_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: d8bc7f43efcc9b04fa55cff51aa5adc9
+    - name: charlieTheCapybara_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 23fb06016c481bf45affbbf36c5b6a37
+    - name: charlieTheCapybara_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: f7d5b43a3edeb214aad361cbd4f1c9a3
+    - name: charlieTheCapybara_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 8a4b85b23fab97b438133d7fe638540d
+    - name: charlieTheCapybara_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: e9a8bef4ced45694eb999b4dab540bad
+    - name: charlieTheCapybara_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 3
+        y: 8
+        width: 55
+        height: 35
+      spriteId: c1731f16921e07a4e8c2338709dc4db6
+    - name: charlieTheCapybara_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 35
+      spriteId: 3f622f728181d804fa9c988d914e8d41
+    - name: charlieTheCapybara_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 35
+      spriteId: 56e3d042368b16b4d92ce94378cecc01
+    - name: charlieTheCapybara_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 35
+      spriteId: 7a59ccc0c8b66384eaa7260bf384a52b
+    - name: charlieTheCapybara_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 34
+      spriteId: 23c4a3994508dfa47a5c3f534e31514b
+    - name: charlieTheCapybara_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 33
+      spriteId: 71681306171a4f54fb5c873d2f41a694
+    - name: charlieTheCapybara_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 33
+      spriteId: 42b2a89a36fe60f4f95874d50ebe1a85
+    - name: charlieTheCapybara_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 33
+      spriteId: 1a93b37b14689e54a8f4276eaef936ce
+    - name: charlieTheCapybara_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 34
+      spriteId: 1b0f84a2f46e5b94ab4c71da2905dfb0
+    - name: charlieTheCapybara_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 35
+      spriteId: 6ef99b8cb22f43a439d3e9d4b0ad330f
+    - name: charlieTheCapybara_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 8
+        width: 53
+        height: 35
+      spriteId: de8472ea9ee96294a882467a6797fa31
+    - name: charlieTheCapybara_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 3
+        y: 8
+        width: 55
+        height: 35
+      spriteId: 846a17d44674c0443ab0e1d790d9d4ed
+    - name: charlieTheCapybara_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: bebf5d92d7c1da345a347ea56aa7d68f
+    - name: charlieTheCapybara_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 75fe99d7dbf28b34ba6a014a6747c2ff
+    - name: charlieTheCapybara_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 1
+        y: 8
+        width: 61
+        height: 36
+      spriteId: 48efe46d822d2524d9c5f9d11d620198
+    - name: charlieTheCapybara_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 1
+        y: 8
+        width: 59
+        height: 36
+      spriteId: 7186884ea7328be48a6183f0e7dff8fa
+    - name: charlieTheCapybara_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 1
+        y: 7
+        width: 56
+        height: 37
+      spriteId: 3a4448ae4afef2f47bbee09f9df301af
+    - name: charlieTheCapybara_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 1
+        y: 7
+        width: 56
+        height: 37
+      spriteId: 1dad0e02a7081c142b7f44bed378a345
+    - name: charlieTheCapybara_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 1
+        y: 6
+        width: 56
+        height: 38
+      spriteId: 753b86e8014618240b0e7da88138946b
+    - name: charlieTheCapybara_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 1
+        y: 5
+        width: 56
+        height: 39
+      spriteId: e05b19fb6d9a2954894436b03966d86e
+    - name: charlieTheCapybara_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 1
+        y: 6
+        width: 56
+        height: 38
+      spriteId: d2eaacf24406e454a973d23a6d15e0d8
+    - name: charlieTheCapybara_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 1
+        y: 6
+        width: 56
+        height: 38
+      spriteId: f29f9a7670ad6e74ab75c820d882d20f
+    - name: charlieTheCapybara_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 1
+        y: 5
+        width: 56
+        height: 39
+      spriteId: a0ea16f964c2d0d4bb6f2fe250ca1d35
+    - name: charlieTheCapybara_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 1
+        y: 6
+        width: 56
+        height: 38
+      spriteId: 57f30d3b8e3901f4093f9f732841ec77
+    - name: charlieTheCapybara_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 1
+        y: 6
+        width: 56
+        height: 38
+      spriteId: cd3c71d736a4c8c45bd95125a6266250
+    - name: charlieTheCapybara_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 1
+        y: 7
+        width: 56
+        height: 37
+      spriteId: 5b4d44cd4f5c2584db9a4f2aa4124cd3
+    - name: charlieTheCapybara_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 1
+        y: 8
+        width: 59
+        height: 36
+      spriteId: 5039f8474d070aa4bb055c5c6f610787
+    - name: charlieTheCapybara_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 1
+        y: 8
+        width: 61
+        height: 36
+      spriteId: 9a8f356b0b6de2e49b3857ebf9bca8a3
+    - name: charlieTheCapybara_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 36
+      spriteId: 86341f0b86da87049bdbfdc61fccc395
+    - name: charlieTheCapybara_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: 72e827fa37344524c8e587fa18bfa891
+    - name: charlieTheCapybara_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: 62b9b0c082ec62a44b88072d0e9fb226
+    - name: charlieTheCapybara_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 34
+      spriteId: 22beb9deae3951b4193ece6feaf79203
+    - name: charlieTheCapybara_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 34
+      spriteId: 5984468884ea8ea4fb15c64a915abeb2
+    - name: charlieTheCapybara_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 34
+      spriteId: 96c19e5a29bfed94aad8d82102f989e4
+    - name: charlieTheCapybara_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: f291c14f88e11b24fae2a8156ddad45a
+    - name: charlieTheCapybara_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: 9bd799e3736769d4aa74b3ed074cab70
+    - name: charlieTheCapybara_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 1
+        y: 8
+        width: 62
+        height: 35
+      spriteId: fd134a2afd53d3a40b4a1c803e3e029f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 64, y: 64}
